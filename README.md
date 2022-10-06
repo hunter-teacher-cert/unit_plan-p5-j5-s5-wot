@@ -7,10 +7,10 @@ Saranii Muller
 
 ### General Overview
 (include here description of unit, what class(es) it fits into, when...)
-Grade 8 CS - Intro to p5 - Unit 1
-00 Pre-Intro
-01 Shapes line vs Circle
-02 Attributes
+Grade 8 CS - Intro to p5 
+Class meets 5 days a week - 45 min per period
+Unit description:
+
 
 
 ---
