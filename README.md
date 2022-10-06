@@ -7,9 +7,10 @@ Saranii Muller
 
 ### General Overview
 (include here description of unit, what class(es) it fits into, when...)
-Grade 8 CS - Intro to p5 
-Class meets 5 days a week - 45 min per period
-Unit description:
+Description:
+
+When: Class meets 5 days a week - 45 min per period
+Grades: Grade 8 CS - Intro to p5
 
 
 
