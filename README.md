@@ -59,6 +59,7 @@ handouts
 ### Resources
 (include any links/books/readings to be used during this unit)
 http://w3schools.com http://sololearn.com
+Youtube tutorials with Dan Shiffman "The Coding Train" https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=2
 
 ---
 
