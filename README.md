@@ -18,8 +18,7 @@ Grades: Grade 8 CS - Intro to p5
 
 ### Motivation for Unit
 (why have you decided to make this?)
-We have decided to do this unit to help students get to know one another at the beginning of the year.  Students will get to know each other working on cultural projects and get to know one another working collaboratively.  It's important to know one's own culture and share with others and get to know others culture's at the same time.
-
+We have decided to do this unit to help students get to know one another at the beginning of the year.  Students will get to know each other working on cultural projects and form supportive relationships through collaborative partnerships.  It's important to know one's own culture and share with others and get to know others culture's at the same time. Through this unit students will demonstrate new understandings of text based applications and utilize their developing skills to illustrate their cultural experiences.
 ---
 
 ### Standards Referenced
@@ -60,6 +59,7 @@ handouts
 (include any links/books/readings to be used during this unit)
 http://w3schools.com http://sololearn.com
 Youtube tutorials with Dan Shiffman "The Coding Train" https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=2
+p5.js library: https://p5js.org/
 
 ---
 
