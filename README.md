@@ -1,8 +1,8 @@
 # Using P5 for Ethnocomputing to Create an All About Me Program
 by TEAM MEMBERS
-Patti Elfers
-Jerusha Theobald
-Saranii Muller
+### Patti Elfers
+### Jerusha Theobald
+### Saranii Muller
 -----
 
 ### General Overview
