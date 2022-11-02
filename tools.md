@@ -1,5 +1,5 @@
 # Patti (Patricia) Elfers-Wygand
-# Jerusha Williams
+# Jerusha Theobald
 # Saranii Muller
 # Curriculum Development 
 # SEDC 73600
