@@ -103,8 +103,8 @@ Total length: 3-weeks
 
 ---
 
-### Assessments
-### Formative
+### Assessments:
+### Formative:
 ### Projects after each lesson 
 ### Culminating Final Cultural Project including HTML/CSS/JS - in P5
 ### Summative:
