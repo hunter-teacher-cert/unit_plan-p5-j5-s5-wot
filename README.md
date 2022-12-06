@@ -16,7 +16,7 @@ Grades: Grade 8 CS - Intro to p5
 
 ---
 
-### Motivation for Unit
+### Motivation for Unit:
 
 ### We have decided to do this unit to help students get to know one another at the beginning of the year.  Students will get to know each other working on cultural projects and form supportive relationships through collaborative partnerships.  It's important to know one's own culture and share with others and get to know others culture's at the same time. Through this unit students will demonstrate new understandings of text based applications and utilize their developing skills to illustrate their cultural experiences.
 ---
