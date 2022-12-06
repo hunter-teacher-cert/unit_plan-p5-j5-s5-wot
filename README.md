@@ -58,21 +58,20 @@ handouts
 
 ### Resources
 ## INSTRUCTIONAL LINKS:
-### https://p5js.org
-### https://p5js.org/reference/
-### https://p5js.org/examples/
-### https://www.codecademy.com/learn/learn-p5js/modules/p5js-introduction-to-creative-coding/cheatsheet
-### (W3schools HTML Cheat Sheet) https://www.w3schools.com/tags/default.asp 
-### (W3Schools CSS Cheat Sheet) https://www.w3schools.com/cssref/index.php 
+### [P5 Web Editor](https://p5js.org) 
+### [P5-Reference Page](https://p5js.org/reference/)
+### [P5-Examples](https://p5js.org/examples)
+### [Code Academy Cheat Sheet](https://www.codecademy.com/learn/learn-p5js/modules/p5js-introduction-to-creative-coding/cheatsheet) 
+### [W3schools HTML Cheat Sheet](https://www.w3schools.com/tags/default.asp)  
+### [W3Schools CSS Cheat Sheet](https://www.w3schools.com/tags/default.asp) 
 (for coloring for P5)
-###  http://htmlcolorcodes.com 
+###  [HTML Color Codes](http://htmlcolorcodes.com)  
 ## VIDEO LINKS:
-### https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1&t=0s
-### https://www.youtube.com/watch?v=MXs1cOlidWs
-### https://www.youtube.com/watch?v=c3TeLi6Ns1E&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4
-### https://www.youtube.com/watch?v=riiJTF5-N7c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5
-### https://www.youtube.com/watch?v=LuGsp5KeJMM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=6
-### https://www.youtube.com/watch?v=LuGsp5KeJMM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=6
+### [Coding Train Intro to P5](https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1&t=0s) 
+### [Coding Train - P5 Editor Interface](https://www.youtube.com/watch?v=MXs1cOlidWs) 
+### [Coding Train - Shapes and Drawing](https://www.youtube.com/watch?v=c3TeLi6Ns1E&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4) 
+### [Coding Train - P5 Color](https://www.youtube.com/watch?v=riiJTF5-N7c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5) 
+### [Coding Train - P5 Errors and the Console](https://www.youtube.com/watch?v=LuGsp5KeJMM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=6) 
 ### Youtube - The Coding Train Channel for Additional tutorials
 ---
 
