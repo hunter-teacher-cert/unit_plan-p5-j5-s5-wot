@@ -103,8 +103,11 @@ Total length: 3-weeks
 
 ---
 
-### Assesments
-(list summative and/or formative assessments used)
-Projects after each lesson with culminating end product:  Cultural Project
+### Assessments
+### Formative
+### Projects after each lesson 
+### Culminating Final Cultural Project including HTML/CSS/JS - in P5
+### Summative:
+### P5 Quiz
 
 ---
